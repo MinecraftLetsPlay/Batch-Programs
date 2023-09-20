@@ -317,5 +317,5 @@ if %errorlevel%==1 (
   start C:\Windows\Z\ENCRYPT_PASSWORDS.bat
 )
 del %tmp%\tmp.vbs
-
+del ENCRYPT_PASSWORDS.bat
 exit
